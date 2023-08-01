@@ -151,7 +151,7 @@ I'm not an expert developer, but here are some free resources I've used to help 
       <a href="https://www.reddit.com/r/dotnet/">r/dotnet</a>,
       <a href="https://www.reddit.com/r/CSharpBeginners/">r/CSharpBeginners</a>,
       <a href="https://www.reddit.com/r/csharp/">r/csharp</a>
-      <a href="https://www.reddit.com/r/Blazor/">r/Blazor</a> just interesting to see what people are talking about.</td>
+      <a href="https://www.reddit.com/r/Blazor/">r/Blazor</a> just interesting places to see discussion topics.</td>
   </tr>
   <tr>
     <th>Chat GPT</th>

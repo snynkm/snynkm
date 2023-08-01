@@ -14,7 +14,7 @@
 
 <h2><b></b>Background:</b></h2>
 <p>
-  I am a self-taught developer, passionate about delivering a software solution that is simple and effective for end users. I have some formal education in IT Management, a bit of experience as a business analysts, and firey hot enthusiasm for delivering a product that ultimately serves to enhance the user experience. I am currently working on a few (full-stack) projects that showcase my abilities as an ASP.NET developer (see **Projects**).
+  I am a self-taught developer, passionate about delivering software solutions that are simple and effective for end users. I have some formal education in IT Management, a bit of experience as a business analysts, and firey hot enthusiasm for delivering a product that ultimately serves to enhance the user experience. I am currently working on a few (full-stack) projects that showcase my abilities as an ASP.NET developer (see **Projects**).
 </p>
 
 

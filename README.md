@@ -71,7 +71,7 @@
     </tr>
     <tr>
       <th>Live Website Url:</th>
-      <td>TBD </td>
+      <td>TBD</td>
     </tr>
     <tr>
       <th>Purpose</th>
@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <th>Repository</th>
-      <td></td>
+      <td>TBD</td>
     </tr>
     <tr>
       <th>Technologies</th>
@@ -105,7 +105,7 @@
     </tr>
     <tr>
       <th>Live Website Url:</th>
-      <td></td>
+      <td>TBD</td>
     </tr>
     <tr>
       <th>Purpose</th>
@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <th>Repository</th>
-      <td></td>
+      <td>TBD</td>
     </tr>
     <tr>
       <th>Technologies</th>

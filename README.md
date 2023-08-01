@@ -85,7 +85,7 @@
       <th>Technologies</th>
       <td>
         <ul>
-          <li>TBD</li>
+          <li>Radzen</li>
         </ul>  
       </td>
     </tr>

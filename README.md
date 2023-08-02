@@ -12,13 +12,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<h2><b></b>Background:</b></h2>
+<h2><b></b>Overview:</b></h2>
 <p>
   I am a self-taught developer, passionate about delivering software solutions that are simple and effective for end users. I have some formal education in IT Management, a bit of experience as a business analysts, and firey hot enthusiasm for delivering a product that ultimately serves to enhance the user experience. I am currently working on a few (full-stack) projects that showcase my abilities as an ASP.NET developer (see **Projects**).
 </p>
 
 
-<h2><b></b>Projects:</b></h2>
+<h2><b>Projects:</b></h2>
 <ol>
 
 <li> <h3> <b>Pizza Ordering App</b> </h3>  
@@ -129,14 +129,19 @@
 </li>
 </ol>
 
-<h3><b></b>Self-Taught Education:</b></h3>
+<h2><b>Background:</b></h2>
+<p> 
+  I began my developer journey back in November 2022, spending the first few months self studying the fundamentals of C# and creating very simple applications. I made the conscious decision to stick with learning ASP.NET because I felt it makes to specialize in a particular framework first before branching out. Starting with the Console App, I learned the basics such as methods and class objects. After working on that for a bit, I moved on to Winforms to get a visual understanding of the code. And then in January, I followed a tutorial that created a minimal CRUD application using MVC. This project gave me a high level understanding of how a database connects to an endpoint. And so after a few months of getting familiar with the essential, I decided to try my hand at developing a full stack application, which had by far been the biggest jump in challenge for me and one that I was ambitious to take on. Before getting started on the project, I had done much research in discovering some of the latest in-demand .NET technologies out there, such as Blazor, EF Core, Razor Pages, etc. I ultimately decided to go with Blazor Server for my first big project because I felt intrigued by what Signal R has to offer. I also feel that the Blazor framework is Microsoft flagship product and the one they are putting the most attention into, which motivated me to take this direction. And although it seems MVC is still predominant in the workplace, from what I've read through forums and videos, Blazor seems to be the next big train takes taking off. 
+</p>
+
+<h3><b>Self-Taught Education:</b></h3>
 
 I'm not an expert developer, but here are some free resources I've used to help me get started as a .NET developer:
 
 <table>
   <tr>
     <th>Youtube</th>
-    <td><a href="https://www.youtube.com/@IAmTimCorey"> Tim Corey</a> offers some very helpful videos for learning C#.</td>
+    <td><a href="https://www.youtube.com/@IAmTimCorey"> Tim Corey</a> offers some very insightful videos for learning C#. The <a href="https://www.youtube.com/@dotnet">dotnet</a> channel is also very helpful.</td>
   </tr>
   <tr>
     <th>Stack Overflow</th>

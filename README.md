@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <th>Repository</th>
-      <td>[link to VP repository]</td>
+      <td><a href="https://github.com/snynkm/VP-Blazor-Azure#readme">https://github.com/snynkm/VP-Blazor-Azure#readme [link to VP repository]</td>
     </tr>
     <tr>
       <th>Technologies</th>

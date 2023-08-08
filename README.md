@@ -140,7 +140,7 @@
 
 <h3><b>Self-Taught Education:</b></h3>
 
-I'm not an expert developer, but here are some free resources I've used to help me get started as a .NET developer:
+Here are some free resources I've used to help me get started as a .NET developer:
 
 <table>
   <tr>

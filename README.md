@@ -84,7 +84,7 @@
       <th>Technologies</th>
       <td>
         <ul>
-          <li>Radzen</li>
+          <li> React | Charts.js | Azure Functions </li>
         </ul>  
       </td>
     </tr>

@@ -90,7 +90,7 @@
     </tr>
     <tr>
       <th>Project Duration: </th>
-      <td> September 2022 - October 2022 (ETA)</td>
+      <td> October 2023 - December 2023 (ETA)</td>
     </tr>
   </table> 
 </li>

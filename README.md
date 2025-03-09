@@ -44,6 +44,10 @@
           </ul>  
         </td>
       </tr>
+	<tr>
+	<th>Images</th>
+	<td> [image-1] </td>
+	</tr>
     </table>  
   </li>
               
@@ -63,10 +67,14 @@
           </ul>  
         </td>
       </tr>
+	<tr>
+	<th>Images</th>
+	<td> [image-1] </td>
+	</tr>
     </table>  
   </li>
 
-<li> <h3> <b>Pizza Ordering App</b> </h3>  
+<li> <h3> <b>Mock E-Commerce Website</b> </h3>  
   <table>
     <tr>
       <th>Title</th>
@@ -74,11 +82,11 @@
     </tr>
     <tr>
       <th>Live Website Url:</th>
-      <td>[Disabled] [Visit Vennato's Pizza ](https://vennatospizza.azurewebsites.net/)</td>
+      <td>[Disabled] [Visit Vennato's Pizza ]</td>
     </tr>
     <tr>
-      <th>Purpose</th>
-      <td>A mock website where users can order pizza (similar to Domino's or Little Caesars). </td>
+      <th>Description</th>
+      <td>Provides a platform where users can view a menu catalog and submit orders.</td>
     </tr>
     <tr>
       <th>Repository</th>

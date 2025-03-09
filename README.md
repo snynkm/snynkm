@@ -37,16 +37,12 @@
         <th>Tech Stack</th>
         <td>
           <ul>
-            <li><b>Python Libraries: pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</b></li>
-            <li><b>SQL: PostgreSQL </b></li>
-            <li><b>Data Visualization: Tableau </b> </li>
-            <li><b>Other: Outlook </b> </li>
+            <li><b>Python Libraries:</b> pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</li>
+            <li><b>SQL:</b> PostgreSQL</li>
+            <li><b>Data Visualization:</b> Tableau</li>
+            <li><b>Other:</b> Outlook</li>
           </ul>  
         </td>
-      </tr>
-      <tr>
-        <th>Project Duration: </th>
-        <td> </td>
       </tr>
     </table>  
   </li>
@@ -61,15 +57,11 @@
         <th>Tech Stack</th>
         <td>
           <ul>
-            <li><b>Python Libraries: pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</b></li>
-            <li><b>SQL: PostgreSQL </b></li>
-            <li><b>Other: Google Sheets </b> </li>
+            <li><b>Python Libraries:</b> pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</li>
+            <li><b>SQL:</b> PostgreSQL</li>
+            <li><b>Other:</b> Google Sheets</li>
           </ul>  
         </td>
-      </tr>
-      <tr>
-        <th>Project Duration: </th>
-        <td> </td>
       </tr>
     </table>  
   </li>
@@ -93,7 +85,7 @@
       <td><a href="https://github.com/snynkm/VP-Blazor-Azure#readme">https://github.com/snynkm/VP-Blazor-Azure#readme [link to VP repository]</td>
     </tr>
     <tr>
-      <th>Technologies</th>
+      <th>Tech Stack</th>
       <td>
         <ul>
           <li><b>Front-End:</b> HTML | CSS | MudBlazor</li>
@@ -106,10 +98,6 @@
           <li><b>PM:</b> Trello</li>
         </ul>  
       </td>
-    </tr>
-    <tr>
-      <th>Project Duration: </th>
-      <td> February 2022 - July 2022 (Complete)</td>
     </tr>
   </table>  
 </li>

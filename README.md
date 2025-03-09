@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean Kim</h1>
-<h3 align="center">UX/UI focused, business-centric .NET full-stack developer</h3>
+<h3 align="center">Software Architect and Engineer</h3>
 
 
 📫 Email: **snk.bus@gmail.com**
@@ -10,19 +10,71 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+ 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code>
+</div>
 
 <h2><b></b>Overview:</b></h2>
 <p>
-  I am a self-taught developer, passionate about delivering software solutions that are simple and effective for end users. I have some formal education in IT Management, a bit of experience as a business analysts, and firey hot enthusiasm for delivering a product that ultimately serves to enhance the user experience. I am currently working on a few (full-stack) projects that showcase my abilities as an ASP.NET developer (see **Projects**).
+ I'm a design guy first, leveraging the necessary technology and business practices to come up with creative solutions that serve to optimize workflows and enhance user experience. 
 </p>
 
 
 <h2><b>Projects:</b></h2>
 <ol>
+  <li> <h3> <b>VM Quantity Manager</b> </h3>  
+    <table>
+      <tr>
+        <th>Description</th>
+        <td> Tracks and manages the on-hand quantity of VM accessories. </td>
+      </tr>
+      <tr>
+        <th>Tech Stack</th>
+        <td>
+          <ul>
+            <li><b>Python Libraries: pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</b></li>
+            <li><b>SQL: PostgreSQL </b></li>
+            <li><b>Data Visualization: Tableau </b> </li>
+            <li><b>Other: Outlook </b> </li>
+          </ul>  
+        </td>
+      </tr>
+      <tr>
+        <th>Project Duration: </th>
+        <td> </td>
+      </tr>
+    </table>  
+  </li>
+              
+  <li> <h3> <b>Inventory Auditor </b> </h3>  
+    <table>
+      <tr>
+        <th>Description</th>
+        <td> Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. </td>
+      </tr>
+      <tr>
+        <th>Tech Stack</th>
+        <td>
+          <ul>
+            <li><b>Python Libraries: pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</b></li>
+            <li><b>SQL: PostgreSQL </b></li>
+            <li><b>Other: Google Sheets </b> </li>
+          </ul>  
+        </td>
+      </tr>
+      <tr>
+        <th>Project Duration: </th>
+        <td> </td>
+      </tr>
+    </table>  
+  </li>
 
 <li> <h3> <b>Pizza Ordering App</b> </h3>  
-
   <table>
     <tr>
       <th>Title</th>
@@ -30,7 +82,7 @@
     </tr>
     <tr>
       <th>Live Website Url:</th>
-      <td><a href="https://vennatospizza.azurewebsites.net/"> [Visit Vennato's Pizza ](https://vennatospizza.azurewebsites.net/)</a></td>
+      <td>[Disabled] [Visit Vennato's Pizza ](https://vennatospizza.azurewebsites.net/)</td>
     </tr>
     <tr>
       <th>Purpose</th>
@@ -62,71 +114,6 @@
   </table>  
 </li>
 
-<li>  <h3> <b> Claims Management System </b> </h3>
-    <table>
-    <tr>
-      <th>Title</th>
-      <td> Claims Management System </td>
-    </tr>
-    <tr>
-      <th>Live Website Url:</th>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <th>Purpose</th>
-      <td>An Intranet Software Program that tracks/maintains a pipeline for claim tickets</td>
-    </tr>
-    <tr>
-      <th>Repository</th>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <th>Technologies</th>
-      <td>
-        <ul>
-          <li> React | Charts.js | Azure Functions </li>
-        </ul>  
-      </td>
-    </tr>
-    <tr>
-      <th>Project Duration: </th>
-      <td> October 2023 - December 2023 (ETA)</td>
-    </tr>
-  </table> 
-</li>
-
-<li> <h3> <b>Mobile App</b> </h3>
-    <table>
-    <tr>
-      <th>Title</th>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <th>Live Website Url:</th>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <th>Purpose</th>
-      <td>A mobile friendly app using Blazor WASM/Server (.NET 8)</td>
-    </tr>
-    <tr>
-      <th>Repository</th>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <th>Technologies</th>
-      <td>
-        <ul>
-          <li>TBD</li>
-        </ul>  
-      </td>
-    </tr>
-    <tr>
-      <th>Project Duration: </th>
-      <td>Start with the release of .NET 8</td>
-    </tr>
-  </table> 
-</li>
 </ol>
 
 <h2><b>Background:</b></h2>

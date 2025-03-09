@@ -46,7 +46,31 @@
       </tr>
 	<tr>
 	<th>Images</th>
-	<td> [image-1] </td>
+	<td> 
+		<table border="1">
+			<tr>
+				<td>
+				<a href="https://[via.placeholder.com/150](https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp)" target="_blank">
+				<img src="https://[via.placeholder.com/150](https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp)" alt="Post process report" width="150">
+				</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<a href="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)" target="_blank">
+				<img src="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)" alt="Dataframe of VM accessory quantities" width="150">
+				</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<a href="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x215q85/22283855-92cb-4873-b515-2c67ebd13cd2.webp?&cacheBust=1741546254547)" target="_blank">
+				<img src="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x215q85/22283855-92cb-4873-b515-2c67ebd13cd2.webp?&cacheBust=1741546254547)" alt="Entity Relationship Diagram" width="150">
+				</a>
+				</td>
+			</tr>
+		</table>
+	</td>
 	</tr>
     </table>  
   </li>

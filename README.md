@@ -37,7 +37,7 @@
         <th>Tech Stack</th>
         <td>
           <ul>
-            <li><b>Python Libraries:</b> pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</li>
+            <li><b>Python Libraries:</b> pandas | PymuPDF | SQLAlchemy | win32com.client | psycopg2 | csv | rich</li>
             <li><b>SQL:</b> PostgreSQL</li>
             <li><b>Data Visualization:</b> Tableau</li>
             <li><b>Other:</b> Outlook</li>
@@ -50,27 +50,12 @@
 		<table border="1">
 			<tr>
 				<td>
-				<a href="https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp" target="_blank">
-    <img src="https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp" alt="Post process report" width="150">
-</a>
-				<a href="https://previews.dropbox.com/p/thumb/ACnaQQDQIk3hudvXx2az0YLDTZ6WQdlln8133mv4W0tZ_O5z7p5U691_ieAsUPjflTGIW57WTlkg6PT0auT7bgVC5kO83A7OQzHuYWVXDpr8D9aD2LPjVyGx6TURNUrlsNVrhSsHzNUcDnL74d3UotcO2ic3efWnWZaDywbPFYgpT4XlIvqgxkBhV9iPf3-UxW5gWtW0V9a46obQ4OFwQJV1Qox5Ux0vKuMUpbLOGaQ7FHzv_AWeWTSROMEy_4QkJHjX_C8avkqBOeATqCcyGB_5_zpZrFucCaUokTYESqMLdsF5iGfCiHIvbRlc8nWlaN8/p.png" target="_blank">
-    <img src="https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp" alt="Post process report" width="150">
-</a>
-				</a>
+				    <img src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post process report" width="150">
 				</td>
 			</tr>
 			<tr>
 				<td>
-				<a href="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)" target="_blank">
-				<img src="[https://[via.placeholder.com/200][(https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)](https://www.dropbox.com/home/Projects/VM%20Quantity%20Manager?preview=474450438_1116399616893521_3087668474173139325_n.png)](https://www.dropbox.com/home/Projects/VM%20Quantity%20Manager?preview=474450438_1116399616893521_3087668474173139325_n.png)" alt="Dataframe of VM accessory quantities" width="150">
-				</a>
-				</td>
-			</tr>
-			<tr>
-				<td>
-				<a href="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x215q85/22283855-92cb-4873-b515-2c67ebd13cd2.webp?&cacheBust=1741546254547)" target="_blank">
-				<img src="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x215q85/22283855-92cb-4873-b515-2c67ebd13cd2.webp?&cacheBust=1741546254547)" alt="Entity Relationship Diagram" width="150">
-				</a>
+				    <img src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" width="150">
 				</td>
 			</tr>
 		</table>
@@ -89,7 +74,7 @@
         <th>Tech Stack</th>
         <td>
           <ul>
-            <li><b>Python Libraries:</b> pandas | NumPy | SQLAlchemy | psycopg2 | csv | rich</li>
+            <li><b>Python Libraries:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
             <li><b>SQL:</b> PostgreSQL</li>
             <li><b>Other:</b> Google Sheets</li>
           </ul>  

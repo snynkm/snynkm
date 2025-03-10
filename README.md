@@ -50,15 +50,19 @@
 		<table border="1">
 			<tr>
 				<td>
-				<a href="https://[via.placeholder.com/150](https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp)" target="_blank">
-				<img src="https://[via.placeholder.com/150](https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp)" alt="Post process report" width="150">
+				<a href="https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp" target="_blank">
+    <img src="https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp" alt="Post process report" width="150">
+</a>
+				<a href="https://previews.dropbox.com/p/thumb/ACnaQQDQIk3hudvXx2az0YLDTZ6WQdlln8133mv4W0tZ_O5z7p5U691_ieAsUPjflTGIW57WTlkg6PT0auT7bgVC5kO83A7OQzHuYWVXDpr8D9aD2LPjVyGx6TURNUrlsNVrhSsHzNUcDnL74d3UotcO2ic3efWnWZaDywbPFYgpT4XlIvqgxkBhV9iPf3-UxW5gWtW0V9a46obQ4OFwQJV1Qox5Ux0vKuMUpbLOGaQ7FHzv_AWeWTSROMEy_4QkJHjX_C8avkqBOeATqCcyGB_5_zpZrFucCaUokTYESqMLdsF5iGfCiHIvbRlc8nWlaN8/p.png" target="_blank">
+    <img src="https://picflow.media/images/f84663de-71bd-4a59-b82c-1c5e09355072/base/f84663de-71bd-4a59-b82c-1c5e09355072.webp" alt="Post process report" width="150">
+</a>
 				</a>
 				</td>
 			</tr>
 			<tr>
 				<td>
 				<a href="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)" target="_blank">
-				<img src="https://[via.placeholder.com/200](https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)" alt="Dataframe of VM accessory quantities" width="150">
+				<img src="[https://[via.placeholder.com/200][(https://picflow.media/images/resized/480x267q85/b56bb9cf-617a-4112-8f16-5364a5623337.webp?&cacheBust=1741546254661)](https://www.dropbox.com/home/Projects/VM%20Quantity%20Manager?preview=474450438_1116399616893521_3087668474173139325_n.png)](https://www.dropbox.com/home/Projects/VM%20Quantity%20Manager?preview=474450438_1116399616893521_3087668474173139325_n.png)" alt="Dataframe of VM accessory quantities" width="150">
 				</a>
 				</td>
 			</tr>

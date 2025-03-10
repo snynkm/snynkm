@@ -47,15 +47,20 @@
 	<tr>
 	<th>Images</th>
 	<td> 
-		<table border="1">
+		<table style="width:100; height:auto" border="0p">
 			<tr>
 				<td>
-				    <img src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post process report" width="150">
+				    <img style="width:100; height:auto" src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post process report" >
 				</td>
 			</tr>
 			<tr>
 				<td>
-				    <img src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" width="150">
+				    <img style="width:100; height:auto" src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" >
+				</td>
+			</tr>
+			<tr>
+				<td>
+				    <img style="width:100; height:auto" src="https://github.com/user-attachments/assets/af99c08d-d950-41e4-b5d6-978729176ae9" alt="Entity Relationship Diagram" >
 				</td>
 			</tr>
 		</table>

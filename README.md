@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://previews.dropbox.com/p/thumb/ACnaQQDQIk3hudvXx2az0YLDTZ6WQdlln8133mv4W0tZ_O5z7p5U691_ieAsUPjflTGIW57WTlkg6PT0auT7bgVC5kO83A7OQzHuYWVXDpr8D9aD2LPjVyGx6TURNUrlsNVrhSsHzNUcDnL74d3UotcO2ic3efWnWZaDywbPFYgpT4XlIvqgxkBhV9iPf3-UxW5gWtW0V9a46obQ4OFwQJV1Qox5Ux0vKuMUpbLOGaQ7FHzv_AWeWTSROMEy_4QkJHjX_C8avkqBOeATqCcyGB_5_zpZrFucCaUokTYESqMLdsF5iGfCiHIvbRlc8nWlaN8/p.png" alt="Python" title="Item Quantity Dataframe"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>

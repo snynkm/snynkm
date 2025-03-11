@@ -37,7 +37,7 @@
 			<th>Tech Stack</th>
 			<td>
 			  <ul>
-			    <li><b>Python Libraries:</b> pandas | PymuPDF | SQLAlchemy | win32com.client | psycopg2 | csv | rich</li>
+			    <li><b>Python:</b> pandas | PymuPDF | SQLAlchemy | win32com.client | psycopg2 | csv | rich</li>
 			    <li><b>SQL:</b> PostgreSQL</li>
 			    <li><b>Data Visualization:</b> Tableau</li>
 			    <li><b>Other:</b> Outlook</li>
@@ -80,7 +80,7 @@
         <th>Tech Stack</th>
         <td>
           <ul>
-            <li><b>Python Libraries:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
+            <li><b>Python:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
             <li><b>SQL:</b> PostgreSQL</li>
             <li><b>Other:</b> Google Sheets</li>
           </ul>  
@@ -92,8 +92,8 @@
 			<table style="width:100; height:auto" border="0p">
 				<tr>
 				<td>
-				<img style="width:auto; height:400px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
-				<img style="width:auto; height:400px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
+				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
+				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
 				</td>
 				</tr>
 			</table>

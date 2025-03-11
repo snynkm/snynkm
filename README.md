@@ -28,45 +28,46 @@
 <h2><b>Projects:</b></h2>
 <ol>
   <li> <h3> <b>VM Quantity Manager</b> </h3>  
-    <table>
-      <tr>
-        <th>Description</th>
-        <td> Tracks and manages the on-hand quantity of VM accessories. </td>
-      </tr>
-      <tr>
-        <th>Tech Stack</th>
-        <td>
-          <ul>
-            <li><b>Python Libraries:</b> pandas | PymuPDF | SQLAlchemy | win32com.client | psycopg2 | csv | rich</li>
-            <li><b>SQL:</b> PostgreSQL</li>
-            <li><b>Data Visualization:</b> Tableau</li>
-            <li><b>Other:</b> Outlook</li>
-          </ul>  
-        </td>
-      </tr>
-	<tr>
-	<th>Images</th>
-	<td> 
+	<table>
+		<tr>
+			<th>Description</th>
+			<td> Tracks and manages the on-hand quantity of VM accessories. </td>
+		</tr>
+		<tr>
+			<th>Tech Stack</th>
+			<td>
+			  <ul>
+			    <li><b>Python Libraries:</b> pandas | PymuPDF | SQLAlchemy | win32com.client | psycopg2 | csv | rich</li>
+			    <li><b>SQL:</b> PostgreSQL</li>
+			    <li><b>Data Visualization:</b> Tableau</li>
+			    <li><b>Other:</b> Outlook</li>
+			  </ul>  
+			</td>
+		</tr>
+		<tr>
+		<th>Images</th>
+		<td> 
 		<table style="width:100; height:auto" border="0p">
-			<tr>
-				<td>
-				    <img style="width:100; height:auto" src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post process report" >
-				</td>
-			</tr>
-			<tr>
-				<td>
-				    <img style="width:100; height:auto" src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" >
-				</td>
-			</tr>
-			<tr>
-				<td>
-				    <img style="width:100; height:auto" src="https://github.com/user-attachments/assets/af99c08d-d950-41e4-b5d6-978729176ae9" alt="Entity Relationship Diagram" >
-				</td>
-			</tr>
+		<tr>
+			<td>
+			<img style="width:auto; height:500px; object-fit:contain" src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post Process Report" >
+			<img style="width:auto; height:500px; object-fit:contain" src="https://github.com/user-attachments/assets/fb286224-8f4f-4135-aa88-d62bf269f4f8" alt="Vending Machine Screenshot" >
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img style="width:auto; height:450px" src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" >
+			</td>
+		</tr>
+		<tr>
+		<td>
+		<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/af99c08d-d950-41e4-b5d6-978729176ae9" alt="Entity Relationship Diagram" >
+		</td>
+		</tr>
 		</table>
-	</td>
-	</tr>
-    </table>  
+		</td>
+		</tr>
+	</table>  
   </li>
               
   <li> <h3> <b>Inventory Auditor </b> </h3>  
@@ -87,7 +88,16 @@
       </tr>
 	<tr>
 	<th>Images</th>
-	<td> [image-1] </td>
+		<td> 
+			<table style="width:100; height:auto" border="0p">
+				<tr>
+				<td>
+				<img style="width:auto; height:400px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
+				<img style="width:auto; height:400px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
+				</td>
+				</tr>
+			</table>
+		</td>
 	</tr>
     </table>  
   </li>

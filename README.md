@@ -21,7 +21,10 @@
 
 <h2><b></b>Overview:</b></h2>
 <p>
- I'm a design guy first, leveraging the necessary technology and business practices to come up with creative solutions that serve to optimize workflows and enhance user experience. 
+ I put design first, leveraging the necessary IT and business practices to come up with creative solutions that function to optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
+</p>
+<p>
+Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding career put my abilities to the test. 
 </p>
 
 

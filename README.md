@@ -21,7 +21,7 @@
 
 <h2><b></b>Overview:</b></h2>
 <p>
- I put design first, leveraging the necessary IT and business practices to come up with creative solutions that function to optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
+ I focus on product, leveraging the necessary IT and business practices to come up with creative solutions that function to optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
 </p>
 <p>
 Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding career and put my abilities to the test! 
@@ -30,6 +30,40 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 
 <h2><b>Projects:</b></h2>
 <ol>
+
+              
+  <li> <h3> <b>Inventory Auditor </b> </h3>  
+    <table>
+      <tr>
+        <th>Description</th>
+        <td> Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. </td>
+      </tr>
+      <tr>
+        <th>Tech Stack</th>
+        <td>
+          <ul>
+            <li><b>Python:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
+            <li><b>SQL:</b> PostgreSQL</li>
+            <li><b>Other:</b> Google Sheets</li>
+          </ul>  
+        </td>
+      </tr>
+	<tr>
+	<th>Images</th>
+		<td> 
+			<table style="width:100; height:auto" border="0p">
+				<tr>
+				<td>
+				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
+				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
+				</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+    </table>  
+  </li>
+
   <li> <h3> <b>VM Quantity Manager</b> </h3>  
 	<table>
 		<tr>
@@ -72,39 +106,7 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 		</tr>
 	</table>  
   </li>
-              
-  <li> <h3> <b>Inventory Auditor </b> </h3>  
-    <table>
-      <tr>
-        <th>Description</th>
-        <td> Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. </td>
-      </tr>
-      <tr>
-        <th>Tech Stack</th>
-        <td>
-          <ul>
-            <li><b>Python:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
-            <li><b>SQL:</b> PostgreSQL</li>
-            <li><b>Other:</b> Google Sheets</li>
-          </ul>  
-        </td>
-      </tr>
-	<tr>
-	<th>Images</th>
-		<td> 
-			<table style="width:100; height:auto" border="0p">
-				<tr>
-				<td>
-				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
-				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
-				</td>
-				</tr>
-			</table>
-		</td>
-	</tr>
-    </table>  
-  </li>
-
+  
 <li> <h3> <b>Mock E-Commerce Website</b> </h3>  
   <table>
     <tr>

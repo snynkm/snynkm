@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
@@ -29,40 +29,43 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 
 
 <h2><b>Projects:</b></h2>
-<ol>
-
-              
-  <li> <h3> <b>Inventory Auditor </b> </h3>  
-    <table>
-      <tr>
-        <th>Description</th>
-        <td> Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. </td>
-      </tr>
-      <tr>
-        <th>Tech Stack</th>
-        <td>
-          <ul>
-            <li><b>Python:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
-            <li><b>SQL:</b> PostgreSQL</li>
-            <li><b>Other:</b> Google Sheets</li>
-          </ul>  
-        </td>
-      </tr>
-	<tr>
-	<th>Images</th>
-		<td> 
-			<table style="width:100; height:auto" border="0p">
+	<ol>
+		<li> <h3> <b>Inventory Auditor </b> </h3>  
+			<table>
 				<tr>
-				<td>
-				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
-				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
-				</td>
+					<th>Description</th>
+					<td> 
+						Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. 
+						<p>
+						This application compares two datasets that are first exported and placed into designated folders. The code reads both sheets, formats them to ensure consistency, and performs a comparison using a table join. Any discrepancies are flagged, indicating whether an asset is missing physically or systematically. A report is then generated, and while the app runs, it displays a visual summary, concluding with a PASS/FAIL status based on the match
+						</p>
+					</td>
 				</tr>
-			</table>
-		</td>
-	</tr>
-    </table>  
-  </li>
+				<tr>
+					<th>Tech Stack</th>
+					<td>
+						<ul>
+						 <li><b>Python:</b> pandas | SQLAlchemy | psycopg2 | csv | rich | re</li>
+						 <li><b>SQL:</b> PostgreSQL</li>
+						 <li><b>Other:</b> Google Sheets</li>
+						</ul>  
+					</td>
+				</tr>
+				<tr>
+					<th>Images</th>
+					<td> 
+						<table style="width:100; height:auto" border="0p">
+							<tr>
+								<td>
+								<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/d4145384-ffe6-4f61-9491-90a84609b2e3" alt="Post Process Report" >
+								<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/6b33a7a4-36b0-490d-a0e2-edd90ac39e27" alt="Storage Room Screenshot" >
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>  
+		</li>
 
   <li> <h3> <b>VM Quantity Manager</b> </h3>  
 	<table>
@@ -84,24 +87,24 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 		<tr>
 		<th>Images</th>
 		<td> 
-		<table style="width:100; height:auto" border="0p">
-		<tr>
-			<td>
-			<img style="width:auto; height:500px; object-fit:contain" src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post Process Report" >
-			<img style="width:auto; height:500px; object-fit:contain" src="https://github.com/user-attachments/assets/fb286224-8f4f-4135-aa88-d62bf269f4f8" alt="Vending Machine Screenshot" >
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<img style="width:auto; height:450px" src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" >
-			</td>
-		</tr>
-		<tr>
-		<td>
-		<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/af99c08d-d950-41e4-b5d6-978729176ae9" alt="Entity Relationship Diagram" >
-		</td>
-		</tr>
-		</table>
+			<table style="width:100; height:auto" border="0p">
+			<tr>
+				<td>
+				<img style="width:auto; height:500px; object-fit:contain" src="https://github.com/user-attachments/assets/86781523-6082-4607-8c07-288db4972ded" alt="Post Process Report" >
+				<img style="width:auto; height:500px; object-fit:contain" src="https://github.com/user-attachments/assets/fb286224-8f4f-4135-aa88-d62bf269f4f8" alt="Vending Machine Screenshot" >
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<img style="width:auto; height:450px" src="https://github.com/user-attachments/assets/764cd58e-4bd3-415d-a85c-02795b5a9185" alt="Dataframe" >
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<img style="width:auto; height:500px" src="https://github.com/user-attachments/assets/af99c08d-d950-41e4-b5d6-978729176ae9" alt="Entity Relationship Diagram" >
+				</td>
+			</tr>
+			</table>
 		</td>
 		</tr>
 	</table>  
@@ -123,7 +126,7 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
     </tr>
     <tr>
       <th>Repository</th>
-      <td><a href="https://github.com/snynkm/VP-Blazor-Azure#readme">https://github.com/snynkm/VP-Blazor-Azure#readme [link to VP repository]</td>
+      <td><a href="https://github.com/snynkm/VP-Blazor-Azure#readme">https://github.com/snynkm/VP-Blazor-Azure#readme</a> [link to VP repository]</td>
     </tr>
     <tr>
       <th>Tech Stack</th>

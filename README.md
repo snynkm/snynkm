@@ -21,10 +21,10 @@
 
 <h2><b></b>Overview:</b></h2>
 <p>
- I value product, leveraging IT and business to develop creative solutions that serve to optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
+ I'm product-driven, leveraging IT and business to develop creative solutions that optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
 </p>
 <p>
-Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding career and put my abilities to the test! 
+Looking for a hybrid gig around Sunnvaly, CA, one that will kick start my coding career and challenge my abilities.
 </p>
 
 

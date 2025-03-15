@@ -21,7 +21,7 @@
 
 <h2><b></b>Overview:</b></h2>
 <p>
- I focus on product, leveraging the necessary IT and business practices to come up with creative solutions that function to optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
+ I value product, leveraging IT and business to develop creative solutions that serve to optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
 </p>
 <p>
 Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding career and put my abilities to the test! 
@@ -141,11 +141,17 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
     </tr>
     <tr>
       <th>Description</th>
-      <td>Provides a platform where users can view a menu catalog and submit orders.</td>
+      <td>
+	<p><b>Brief: </b>Provides a platform where users can view a menu catalog and submit orders.
+      </p>
+      <p>
+	      <b>Motive: </b>I made this application back when I was first learning C#. I've decided to focus more on Python going forward, but I still wanted to showcase this project.It is the first full-stack web application I've built. It was a very challenging project, but I had lots of fun with it. 
+      </p>
+      </td>
     </tr>
     <tr>
-      <th>Repository</th>
-      <td><a href="https://github.com/snynkm/VP-Blazor-Azure#readme">https://github.com/snynkm/VP-Blazor-Azure#readme</a> [link to VP repository]</td>
+      <th>Code</th>
+      <td> Link to [<a href="https://github.com/snynkm/VP-Blazor-Azure">Vennato's Pizza Repository</a>] 💻 </td>
     </tr>
     <tr>
       <th>Tech Stack</th>

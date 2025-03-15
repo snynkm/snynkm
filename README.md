@@ -104,6 +104,12 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 			</td>
 		</tr>
 		<tr>
+			<th>Code</th>
+			<td>
+				Link to [<a href="https://github.com/snynkm/deployment/tree/main/deployment/vending_machine">VM Quantity Manager Repository </a>] 💻
+			</td>
+		</tr>
+		<tr>
 		<th>Images</th>
 		<td> 
 			<table style="width:100; height:auto" border="0p">

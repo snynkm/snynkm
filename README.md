@@ -35,9 +35,13 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 				<tr>
 					<th>Description</th>
 					<td> 
-						Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. 
+						<p><b>Brief:</b> Runs a quick check to identify discrepancies between system and physical count for inventory assets. Used to speed up the pre-audit process. 
+						</p>
 						<p>
-						This application compares two datasets that are first exported and placed into designated folders. The code reads both sheets, formats them to ensure consistency, and performs a comparison using a table join. Any discrepancies are flagged, indicating whether an asset is missing physically or systematically. A report is then generated, and while the app runs, it displays a visual summary, concluding with a PASS/FAIL status based on the match
+						<b>How it works:</b> This application compares two datasets that are first exported and placed into designated folders. The code reads both sheets, formats them to ensure consistency, and performs a comparison using a table join. Any discrepancies are flagged, indicating whether an asset is missing physically or systematically. A report is then generated, and while the app runs, it displays a visual summary, concluding with a PASS/FAIL status based on the match
+						</p>
+						<p>
+						<b>Motive:</b> I created this application not only to save time but also to reduce the mental strain of performing the repetitive task of manually reviewing datasets. 
 						</p>
 					</td>
 				</tr>
@@ -71,7 +75,16 @@ Looking for a hybrid gig in Sunnvaly, CA, one that would kick start my coding ca
 	<table>
 		<tr>
 			<th>Description</th>
-			<td> Tracks and manages the on-hand quantity of VM accessories. </td>
+			<td> 
+				<p><b>Brief:</b> Tracks and manages the systematic quantities of VM accessories. 
+				</p>
+				<p>
+				<b>How it works:</b> I set up Tableau to send me an automated email every morning, containing a PDF with a breakdown of current stock levels. The code filters for this email in Outlook, downloads the PDF to a specific folder, extracts the relevant data, and loads into a dataframe. It then pulls existing data from a database, compares the values, and updates the database accordingly based on the applications selected options. Lastly, the updated dataset is display and visualization highlits the current stock percents for each vending machine item.
+				</p>
+				<p>
+				<b>Motive: </b>The motivation behind this project is to optimize daily VM maintenance by identifying when refills are necessary. This system allows me to focus on higher-priority tasks, while ensuring that stock levels remain sufficient for users.
+				</p>
+			</td>
 		</tr>
 		<tr>
 			<th>Tech Stack</th>

@@ -41,7 +41,7 @@
  I'm a product-driven guy, leveraging IT and business to develop creative solutions that optimize workflows and enhance user experience. My approach is centered around building a solution that keeps it simple while truly hammering home the impact it has on work efficiency.
 </p>
 <p>
-Looking for a hybrid gig around Sunnvaly, CA, one that could propell coding career and challenge my abilities!
+Looking for a hybrid gig around Sunnvaly, CA, one that will propell my dev career and challenge my abilities!
 </p>
 
 
